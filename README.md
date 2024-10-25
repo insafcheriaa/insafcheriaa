@@ -1,5 +1,5 @@
 -👋 Hi, I’m @insafcheriaa
-\n-👀 I’m interested in Robotic Process Automation (RPA), process optimization and AI
+-👀 I’m interested in Robotic Process Automation (RPA), process optimization and AI
 -🌱 I’m currently learning RPA development, focusing on automating workflows and improving efficiency using tools like UiPath
 -📫 How to reach me: cheriaainsaf@gmail.com
 -😄 Pronouns: She/Her
